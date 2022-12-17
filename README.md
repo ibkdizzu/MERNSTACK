@@ -83,7 +83,7 @@ Now, we test our server to ensure all works well. Run below command
 
 If all is as expected, result is shown below
 
-![alt text](images/3.ResolutionN.PNG.PNG)
+![alt text](images/3.ResolutionN.PNG)
 
 NB: Ensure to add an inbound that allows port 5000 on your server
 
